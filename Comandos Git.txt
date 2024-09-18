@@ -2,3 +2,15 @@ git init
 
 Cria/torna uma pasta em um repositorio GIT, somente necessario na primeira vez quando a pasta ainda nao eh um repositorio.
 
+git status
+
+mostra a situacao atual do repositorio, como arquivos alterados/inclusos/removidos
+
+git add <arquivo>
+
+adiciona <stage> do arquivo.
+git add . adiciona tudo ao stage (area para commitar)
+
+git commit -m "mensagem para commitar"
+efetiva as alteracoes que estao no stage.
+
