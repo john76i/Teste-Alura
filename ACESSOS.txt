@@ -1,0 +1,695 @@
+AGUIA BRANCA
+
+Conectar VPN:
+
+Usuário e senha da base:
+
+VAB\Ps.Rosam
+consultor@2024
+
+QAS IP: 10.30.20.45
+
+VAB\Ps.Rosam
+consultor@2024
+
+***************************************************************
+
+CAVALINHO
+
+Teste : erpbennerteste.cavalinho.com.br
+produção : erpbenner.cavalinho.com.br
+
+Usuário: cavalinhodc\benner.tms
+Senha: b3nn3rtms@
+
+Usuário: cavalinhodc\benner.corporativo
+senha: b3nn3rcorporativo@     
+
+Usuário: cavalinhodc\benner.frotas
+senha: b3nn3rfrotas@
+
+Usuário: cavalinhodc\benner.rh 
+senha: b3nn3rrh@
+
+LINK WES:
+
+http://192.168.51.211/PortalCliente_Homologacao/Admin.aspx
+ 
+https://portalcliente.cavalinho.com.br/Login?ReturnUrl=%2f%3f
+
+U: sysdba 
+S: masterkey
+
+****************************************************************
+
+MORADA DO SOL 
+
+FORTICLIENT VPN: MORADA
+
+U: acesso.benner
+S: benner.123
+
+U: acesso.benner1 
+S: Sistema@2024
+
+U: acesso.benner2
+S: Sistema@2024
+
+
+WTS: 172.31.19.5 - PRODUCAO
+
+U: grupomorada.local\acesso.benner
+S: benner.123
+
+WTS: 172.19.19.17 - HML - PROJETOS - TESTE
+
+U: grupomorada.local\acesso.benner
+S: benner.123	
+
+ACESSO BASES:
+
+U: SYSDBA
+S: MASTERKEY
+	
+****************************************************************
+
+NOVA SAFRA
+
+bennercloud\benner.beatriz.s
+B#nn3r@12345#
+
+
+Dentro do TS:
+bennercloud\benner.celio.r
+Logistica@2029
+
+Acesso à base é sysdba/@ns159357x
+
+****************************************************************
+
+HERCULANO (VALIDAR COM A REVENDA)
+
+192.168.254.253:3380
+
+sminas4 exE9cpCNqS7bJT7
+
+USER\SENHA GENERICO: sysdba\Masterkey.1
+
+borracharia.monica/123456
+
+Digitar um dos endereços para acesso:
+
+- Servidor Benner th-app (base de produção): 192.168.254.249
+- Servidor Benner th-dev (bade de homologação):192.168.254.253:3380
+
+senha produção:
+
+sminas1  SpLEd.e@2E;qj;Q
+
+sminas2  +=Py72+7E+h@Rv2
+
+homolog
+
+sminas3  DF:vTFw2gL3LUG.
+
+sminas4  QH8Y+iah%}?pn:C
+
+
+
+****************************************************************
+
+ Irmãos Travagin (ACESSO COMPARTILHADO COM RH - ERP - BL ) 
+
+VPN Windows
+186.209.10.27:3392
+Usuário: BENNER\benner
+Senha: Suporte@h1
+
+ACESSO BASE - Homologação/Produção:
+Usuário: sysdba
+Senha: Ideal@251
+
+ACESSO NDD:
+
+Usuário: 9ndd12\administrador
+S3nh@:  SEQ@NDD7R@N5
+
+****************************************************************
+
+LOG20
+
+WTS: ts.log20.com.br:30392
+Usuario: log20\suporte.benner3
+Senha: Log20@2018
+
+Usuário:sysdba
+Senha: masterkey
+
+
+servidor produção:
+
+177.154.148.162
+
+e-Monitor:
+http://177.154.148.162/eFormseMonitor/Account/Login
+
+Usuário:log20
+Senha: log20@logistica
+
+****************************************************************
+
+DSV (Acesso exclusivo do BL)
+ 
+LINK PARA O AMBIENTE DO CLIENTE:
+https://workspace.amer.dsv.com/Citrix/DSVEXTWeb/
+ 
+USUÁRIO: ext.j.goncalves
+ 
+SENHA: brhoIT2024!
+ 
+DENTRO DO AMBIENTE ACESSO AS BASES PROD, HML, TST:
+ 
+USUÁRIO: jhonathan.goncalves  
+ 
+SENHA: dsv123
+ 
+USUÁRIO: celio.ramos
+ 
+SENHA: Masterkey@24
+
+USUÁRIO: integratorpa
+ 
+SENHA: 12345
+
+no servidor de teste abre o link http://localhost/eFormseMonitor/Account/Login o 
+
+usuário é NDD e a senha = P@ssw0rd
+
+AD account created: ext.j.goncalves
+Initial password: -fm04HQT
+
+Email address: ext.jhonathan.goncalves@dsv.com 
+
+****************************************************************
+
+EXPRESSO SÃO MIGUEL (Acesso individual)
+
+Sistema Homologação:
+Usuario: suporte.benner01	
+Senha: @5H4R8B%*bhl
+
+Sistema Produção:
+Usuario: suporte.benner01
+Senha: BP;uvRe!#E3#mSY
+
+
+Atualizado em 10/08/2023 
+Para acessar a base da São Miguel do ERP que está BENNER:
+
+sysdba/Suporte@2024
+suporte.benner01 / Brasil@2023
+
+
+jhonathan.goncalves@esm.local
+
+Login: jhonathan.goncalves
+Senha: tnFVRP@h54a7
+IP RDP ESM: 172.16.0.241
+
+****************************************************************
+
+CONLOG (Acesso individual)
+
+WTs:  benner.conlogsa.com.br
+
+User:conlog\benner.jhonathan
+Senha:   jhnthb@2025!
+
+Ambiente de Produção/Homologação:
+Usuário: sysdba
+Senha: masterkey@1089! 
+
+NDD:
+
+http://ndd.conlogsa.com.br/eFormseMonitor/#mnOptions-1
+
+NDD / NDD
+
+****************************************************************
+
+Cooper (Acesso individual, solicitar para o CS de logística)
+
+http://wts.coopercarga.com.br/
+
+Benner.Jhonathan
+2490@6638aG
+
+Sistema:SGL_HOMOLOGACAO
+benner.jhonathan / Senha@23
+
+Sistema: SGL_HOMOLOG_SQL2016
+Usuário/Senha: benner.jhonathan / Senha@24
+
+
+Acesso HomologaÃ§Ã£o : IP 192.168.0.153
+
+ProduÃ§Ã£o:
+UsuÃ¡rio: benner.jhonathan
+senha: Senha@23
+
+
+2-Usuário:  benner.beatriz
+2-Senha:  benner@123
+
+
+Builder
+\\192.168.0.18\temp\Builder
+
+
+IP produção: 172.16.20.35
+
+****************************************************************
+
+ETM (Validar com a revenda)
+
+VPN
+benner.beatriz
+Martins*2024
+
+W:
+benner.beatriz
+Martins*2024
+
+Hologação:
+mstsc: 10.10.1.7
+
+Produção:
+mstsc: 10.10.1.6
+
+Benner:
+benner.jhonathan
+Senha@24
+
+NDD
+
+https://webcte2pd.e-datacenter.nddigital.com.br/softcenter_app/eMonitor/
+
+Usuario: ETM_MASTER
+Senha: Transmartins@17191
+
+***************************************************************
+
+TAC (Validar com o Marcelo, ele usa o Skype e Teams)
+
+OPEN GUI 
+
+SERVIDOR PRODUÇÃO
+10.2.94.3
+
+SERVIDOR HOMOLOG
+10.2.94.4
+
+benner.celio
+parl3keC
+
+sysdba
+Tac@2099
+
+****************************************************************
+
+Dalçoquio (Cliente só responde e-mail)
+
+Acesso Dalçoquio - Instalar certificado na pasta raiz de certificado
+
+WTS:wts.dalcoquio.com.br
+
+user: dalcoquio\suporte-benner
+senha: Benner@2023
+
+USUÁRIO:dalcoquio\thais-pereira
+SENHA:0cam7ynb
+
+Usuário dalcoquio\jean-almeida
+senha: Benner@2023
+
+Servidor de banco TESTE: TARIFADOR
+Seervidor de banco PRODUÇAO: App1
+
+
+sysdba / masterkey
+
+****************************************************************
+
+PATRUS (Acesso individual, solicitar com o responsável pelo chamado - SMS)
+
+10.31.0.5
+
+10.31.0.4
+
+WES 4.9: https://portalhml.patrus.com.br/Login?ReturnUrl=%2fportalhomolog%3f
+
+https://client.wvd.microsoft.com/arm/webclient/index.html
+
+Usuário: benner.jhonathan.g@patrus.com.br  
+
+Senha: Asdfg3#!
+
+Senha:  vwzttmrbnkvskgsq
+
+ACESSO BASE: 
+
+sysdba \ keymaster
+ 
+ACESSO A BASE PROD.: 
+benner.jhonathan.g
+
+Asdfg3#!
+
+e-monitor: ndd / Patrus2024@Re
+
+BASE 5.0
+
+TRANSPORTE_HOMOLOGACAO_50
+
+benner.jhonathan.g / q)v£oV?gfT42A/8S
+
+Servidor: benner-hml01
+IP: 10.31.0.4
+Sistema TRANSPORTE_HOMOLOGACAO_50
+
+WES 5.0: https://portalhml50.patrus.com.br/
+
+DOMÍNIO APP:
+
+hml50.patrus.com.br
+
+****************************************************************
+
+PROJETOS DSV (Solicitar atulização a Tamiris Fontanella de Lima, não passar o acesso dessa base para o suporte ERP)
+
+Servidor: BNU-LOGDEV01 
+
+Sistema: BL_QUA_DSV_PROJETOS
+
+Usuário/Senha: Beatriz.Silva / benner
+
+FTP:
+
+ftp://192.168.8.27/
+
+u: TESTE_DSV
+
+S: 12345
+
+****************************************************************
+
+JFW (Validar com a revenda)
+
+Arquivos Open Vpn
+
+Usuario benner2
+Senha: @@Jfw6060##@@
+
+jhonathan.benner
+@@Benner##
+
+////////////////////////
+
+
+10.213.0.11
+usuario benner2@jfw.dc
+senha: @@Jfw6060##@@
+
+jhony.benner
+@@B3nn3r##
+
+mailto:jhony.benner@jfw.dc
+
+HML_3:
+
+benner.fabrica/123456 
+
+HML_2:
+
+benner.fabrica/12345678 
+
+PROD:
+
+benner.fabrica/Senha@23
+
+10.213.0.11
+
+usuario benner2@jfw.dc
+senha: @@Jfw6060##@@
+
+E-monito HML:
+
+https://webcte2hm.e-datacenter.nddigital.com.br/eFormseMonitor/Account/Login
+
+LOGIN: JFW_T_MASTER
+SENHA: Mmm123!@#
+
+E-monitor PROD:
+
+https://webcte2pd.e-datacenter.nddigital.com.br/eFormsColdweb/Account/Login
+
+Login: JFW_T_MASTER
+Senha: JFW_T_MASTER1
+
+
+****************************************************************
+
+CARRASCOZA (VALIDAR COM O Raoni Zuccolotto via Skype)
+
+WTS
+acesso.pedreiracarrascoza.com.br:3017
+ 
+Usuário: carrascozadom\benner
+
+Senha: Ben@ner@102023
+
+Sistema: Usuário: suporte.benner
+
+         Senha: B&nner@2023*2
+
+192.168.0.11 - CORP_TESTE
+
+http://192.168.0.17:9092/CORPORATIVO
+http://192.168.0.17:9092/CORP_TESTE
+   
+****************************************************************
+
+
+COOPERTRUNI (Validar com a revenda)
+
+WTS PROD(IP\LOGIN\SENHA): 168.0.219.241:3396
+
+U: COOPERTRUNI\sminas
+
+S: TruniVrb@1513+24
+
+Depois, dentro do WTS, abrir outro WTS para acessar os serviços do sistema
+
+192.168.0.251
+
+U: COOPERTRUNI\sminas
+
+S: TruniVrb@1513+24
+
+sminas.luciana senha 296303
+
+--------------------------------------------------------------
+
+DSV -  INTERNA 
+
+SERVIDOR BNU-LOGVAPL01
+
+SISTEMA: BL_PANALPINA_0610
+
+U:sysdba
+
+S: masterkey
+
+DEV / masterkey
+
+integratorpa / Masterkey@23
+----------------------------------------------------------------
+
+MAX MORH (VALIDAR COM OS DEMAIS SUPORTE ESTÃO SEMPRE ALTERANDO OS DADOS DE ACESSO)
+
+WTS: global.maxmohr.com.br
+
+Usuario: maxmohr\benner
+
+S: Maxmohr@212223
+
+USER = sysdba  | SENHA = benner
+
+---------------------------------------------------------------
+
+
+\\bnu-ntricardor\Manual ricardo
+
+---------------------------------------------------------------
+
+PLANALTO (Validar com a revenda)
+
+SERVIDOR VPN  WINDOWS 
+
+Nome da Conexão:PLANALTO
+
+Servidor:rds.transportadoraplanalto.com.br
+
+Tipo de VPN: L2TP/Psec com chave pré-compartilhada
+
+Chave pré-compartilhada: 
+5ipIzawi45swo1RerUJITrACHosTIStldRl26Lqix49iTiPrlPROkospUni1l2Ad
+
+Tipo e informação de entrada: Nome de usuário e senha
+
+Nome de usuário: sminas.vpn
+
+Senha: 
+j^kEQzMC8Pkos8Vg@Rj&bkxtbRXBNALd
+
+192.168.10.245
+
+%6o*y2yZxhR5U7#DRdkszQY^Jc&eXczJ
+
+Usuário:TPL\sminas.sup
+Senha: %6o*y2yZxhR5U7#DRdkszQY^Jc&eXczJ
+
+Usuário/senha: sysdba/12345 
+
+-----------------------------------------------------------------
+WES
+ 
+BASE:  BL_SUP_TMS101
+
+LINK: http://bnu-logsuptms1/bl_sup_tms101
+
+http://bnu-logsuptms1/BL_SUP_TMS101
+	
+ACESSO: sysdba/Benner@2024
+
+###################################################################
+ 
+BASE: BL_SUP_WES_4.9 (Backup da base 
+
+'BL_SUP_TMS_ROADMAP_04.09_HOMOLOG')
+
+
+VERSÃO: 04.09.9.43
+
+LINK:
+ 
+http://bnu-logsuptms1/BL_SUP_WES_4.9
+
+
+ACESSO: sysdba/Benner@2023
+
+****************************************************************
+SERVIDOR:bnu-logsuptms1
+
+Sistema: BL_SUP_WES_4.9
+
+U: sysdba / Benner@2023
+
+****************************************************************
+usuario: bennercloud\benner.jonathan.g
+
+ACcess1030%#
+
+bennercloud\benner.vinicius.v
+
+Paranense@3094
+
+bennercloud\benner.suzana.s
+
+Maria@08122021
+
+Servidor: OCI-DEMOERP01
+
+Base:	Base BL_POCTMS
+
+Usuário: sysdba
+
+Senha:Benner2024!!
+
+******************************************************************
+
+bnu-logvapl01
+ 
+BL_DHL_PROJETOS_0409
+ 
+bl.qualidade / qualidade
+ 
+******************************************************************
+
+COOPERCARGO
+
+Apontamento de HOST (Dev's):
+HOST:SRV-APL01
+IP da APLICACAO:192.168.100.234
+ 
+HOST:SRV-DB01
+IP do BANCO: 192.168.100.230
+
+Conexão por VPN:
+
+SonicWall - NetExtender
+
+Server: vpn1.coopercargo.com.br:4433
+Usuário: suporte_benner
+Senha: J5/*h17d454c
+Domínio: coopercargo.net
+
+Após conectar na VPN, acessar o WTS:
+
+IP: 192.168.100.234
+Usuário:coopercargo.net\suporte_benner
+Senha: J5/*h17d454c
+
+Acesso ao sistema:
+
+Usuário: sysdba
+Senha: masterkey	
+
+---------------------------------------------------------------
+IBGE:
+
+https://www.ibge.gov.br/geociencias/organizacao-do-territorio/estrutura-territorial/23701-divisao-territorial-brasileira.html?=&t=o-que-e&utm_source=landing&utm_medium=explica&utm_campaign=codmun
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,4 @@
+git init
+
+Cria/torna uma pasta em um repositorio GIT, somente necessario na primeira vez quando a pasta ainda nao eh um repositorio.
+
