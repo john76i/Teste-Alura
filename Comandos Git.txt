@@ -1,3 +1,13 @@
+Instalacao
+
+Win + R e executar
+
+winget install --id Git.Git -e --source winget
+
+git config --global --edit
+
+mkdir ou criar uma pasta qualquer.
+
 git init
 
 Cria/torna uma pasta em um repositorio GIT, somente necessario na primeira vez quando a pasta ainda nao eh um repositorio.
