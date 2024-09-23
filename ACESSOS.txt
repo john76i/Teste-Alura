@@ -383,6 +383,10 @@ DOMÍNIO APP:
 
 hml50.patrus.com.br
 
+
+acesso app:
+benner.jhonathan.g / abc123
+
 ****************************************************************
 
 PROJETOS DSV (Solicitar atulização a Tamiris Fontanella de Lima, não passar o acesso dessa base para o suporte ERP)
