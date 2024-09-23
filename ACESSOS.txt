@@ -393,6 +393,8 @@ Sistema: BL_QUA_DSV_PROJETOS
 
 Usuário/Senha: Beatriz.Silva / benner
 
+Usuário/Senha: ATIVANFE / 12345
+
 FTP:
 
 ftp://192.168.8.27/

@@ -1345,33 +1345,12 @@ SELECT * FROM GLCM_CONTRATOS WHERE NUMERO = '2018/000010'
 -----------------------------------------------------------------
 SELECT * FROM ***, LENGTH(CHAVECTE) 
 
-Curso de SQLite online: conhecendo instruções SQL
-
-SQL: Curso Online
-Conheça SQL, uma linguagem estruturada para consultas a bancos de dados relacionais, que nos permite consultar e manipular os dados.
-
-
-2325500
-
-2314999
-
-2024/190454-3
-
-SMS: 
-
-2325619 - 05.00.5.109 - RELEASE LIBERADA (Correção feita para o erro do ambiente da DSV) 
-
-2325603 - Precisamos dos log do erro que está ocorrendo no ambiente da DSV. 
-
-
-
-2325603
+NFE.DIRETORIOIMPORTACAO
 
 
 
 
 
-teste
 
 
 
