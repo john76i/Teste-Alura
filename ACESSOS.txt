@@ -620,7 +620,7 @@ Base:	Base BL_POCTMS
 
 Usuário: sysdba
 
-Senha:Benner2024!!
+Senha: Benner2024
 
 ******************************************************************
 
