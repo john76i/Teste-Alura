@@ -75,15 +75,11 @@ S: MASTERKEY
 
 NOVA SAFRA
 
-bennercloud\benner.beatriz.s
-B#nn3r@12345#
+BENNER CLOUD:
+bennercloud\benner.jonathan.g
+ACcess1030%#
 
-
-Dentro do TS:
-bennercloud\benner.celio.r
-Logistica@2029
-
-Acesso à base é sysdba/@ns159357x
+Acesso à base é sysdba / @ns159357x
 
 ****************************************************************
 
