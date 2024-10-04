@@ -1353,34 +1353,3 @@ OP.CONTRATOFRETE.FRACIONADO.POR.DOCUMENTO.DA.COLETA
 OP.CONTRATOFRETE.FRACIONADO.POR.DOCUMENTO
 
 
-2328900
-
-2326988
-
-42241001257995002268550010000002101123456780
-
-01.257.995/0022-68 - GOIASMINAS INDUSTRIA DE LATICINIOS LTDA
-
-12.539.517/0004-85 - 707 Auto-Servico De Alimentos Ltda
-
-COOPERCARGA SMS TAG XML:
-
-735245 - XML CT-e não preenche campos de ICMS ST
-
-947071 - Caracteres invalidos na carta de correção
-
-Boa tarde, 
-
-Após validar com o Carlos Cardoso o real problema da SMS, validamos com o nosso analista de sustentação, e identificamos que o comportamento do sistema hoje é resultado a melhoria realizada na SMS 947071 - Caracteres inválidos na carta de correção. 
-
-Para que seja realizada a alteração realizada na melhoria solicitada acima será necessário abrirem uma SMS de IMPLEMENTAÇÃO, com o arquivo de checklist de necessidades preenchido (o arquivo está disponível no anexo deste chamado)
-
-Atenciosamente, Jhonathan Gonçalves. 
-
-
-Certificado - Canva - criando apresentações comerciais
-
-
-1426425
-
-Certificado - Canva: crie um e-book com apoio da Inteligência Artificial
