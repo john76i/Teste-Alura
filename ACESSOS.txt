@@ -572,7 +572,7 @@ LINK: http://bnu-logsuptms1/bl_sup_tms101
 
 http://bnu-logsuptms1/BL_SUP_TMS101
 	
-ACESSO: sysdba/Benner@2024
+ACESSO: sysdba/Benner@2025
 
 ###################################################################
  
@@ -588,7 +588,7 @@ LINK:
 http://bnu-logsuptms1/BL_SUP_WES_4.9
 
 
-ACESSO: sysdba/Benner@2023
+ACESSO: sysdba/Benner@2025
 
 ****************************************************************
 SERVIDOR:bnu-logsuptms1
