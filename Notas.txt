@@ -391,7 +391,7 @@ SELECT * FROM GLOP_COLETAINTEGRACAOATS WHERE PLACA1 = 'QUJ3717'
 
 OP.CONTRATOFRETE.PERMITIRMANIPULARLANCAMENTOSFINANCEIROS
 
-SELECT * FROM GLCM_NEGOCIACOES WHERE NUMERO = '2019/000421'
+ NUMERO = '2019/000421'
 
 SELECT *
   FROM GLOP_PERCURSOS
@@ -1380,13 +1380,17 @@ Certificado - Responsabilidade corporativa: como lidar com divergências e julga
 
 2022325
 
+Sobre a tua SMS 2347189, estava falando com o analista de sustentação e não estamos mais fazendo melhoria, teríamos que direcionar essa demanda para implementação 
+
+01.108.177/0049-13 
+
+40.432.544/0112-62 
+
+41241002735565000657570010000000061000000065
 
 
+41241002735565000657570020001235061001235063
 
+2346789
 
-
-
-
-
-
-
+2347189
