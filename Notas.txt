@@ -1400,3 +1400,150 @@ Sobre a tua SMS 2347189, estava falando com o analista de sustentação e não e
 https://cursos.alura.com.br/formacao-gestao-produtos
 
 https://cursos.alura.com.br/formacao-digital-e-agile-thinking
+
+
+Mensagem: A configuração OP.CF.CONTRATOFRETE.ALTERARCENTRODECUSTO não existe na definição de configurações do sistema!
+-----Fila de erros ----------------------
+09:05:30: A configuração OP.CF.CONTRATOFRETE.ALTERARCENTRODECUSTO não existe na definição de configurações do sistema!
+
+
+CONTRATO: 2020/000478
+
+NEGOCIACAO: 2014/000689 - Negociação Complementar de Serviço e NF
+
+TABELAPRECO: 1028 - Tabela de Compra Complementar Serviço e NF
+
+MEIOPAGAMENTO: Beneficiário (Adto) - Cartão Motorista (Ped) - Beneficiário (Sdo) - Extratta-Sem Roteirizar
+
+BENEFICIÁRIO: 717.249.583-72 - ANTONIO FERNANDO MATOS DE ARAUJO FILHO
+
+VEICULO: JTJ3197 - TRUCK
+
+MOTORISTA: 837.003.904-91 - JOSE IVAN BEZERRA LOPES
+
+TOMADOR: 01.257.995/0022-68 - GOIASMINAS INDUSTRIA DE LATICINIOS LTDA 
+
+---------------------------
+Informação
+---------------------------
+Existem limites cadastrados para componentes que não estão no cálculo do documento!
+Componentes:
+ - Taxa Administrativa
+Estes componentes são exigidos no cálculo do documento!
+---------------------------
+OK   
+---------------------------
+
+VIAGEM: 2024/036404-35
+CF Complementar:2024/035330-35
+
+VIAGEM: 2024/036405-35
+CF Complementar:2024/035331-35
+
+9572 - Passo Fundo - Município | São Paulo - Município
+
+CT-e: 137348
+
+---------------------------
+Informação
+---------------------------
+Não foi possível gerar o frete combinado.
+Não está configurado nenhum parâmetro de Frete Combinado para o usuário: BENNER.JHONATHAN Parâmetros:OP.DOCUMENTOCLIENTE.PERMITEFRETECOMBINADO e OP.DOCUMENTO.PERMITECALCULOFRETECOMBINADOPAUTA
+---------------------------
+OK   
+---------------------------
+
+---------------------------
+Informação
+---------------------------
+Não foi possível gerar o frete combinado.
+No h uma Regra de Permisso para Frete Combinado ativa que contemple este cenrio.
+Favor cadastrar uma em: Gesto Comercial -> Tabelas Auxiliares -> Condio Frete Combinado -> Cliente.
+---------------------------
+OK   
+---------------------------
+
+
+--------------------------------------------------------------------------------------------------------
+
+BENEFICIÁRIO: 10.221.334/0001-49 - ZOE LOGISTICA LTDA
+
+VEICULO: HBG7210 - HBG7210 
+
+MOTORISTA: 281.092.648-40 - ANDERSON GOMES
+
+CONTRATO: 2014/000062
+
+NEGOCIACAO: 2022/000429 - Negociação CF vinculado ao pedido de coleta
+
+
+COLETA:
+
+EXPEDIDOR: 44.411.353/0001-50 - CRAGEA
+
+Participante: 02.427.026/0012-07 - ALIANCA NAVEGACAO E LOGISTICA LTDA
+
+CLIENTE: 02.762.121/0009-53 - )SANTOS BRASIL PARTICIPACOES SA
+
+NEGOCIACAO: 2014/000700
+
+
+---------------------------
+Informação
+---------------------------
+Pedido de coleta número 2024/0003604-22 confirmado
+---------------------------
+OK   
+---------------------------
+
+281.092.648-40 - ANDERSON GOMES
+
+
+---------------------------
+Informação
+---------------------------
+Existem certificados vencidos para: ANDERSON GOMES - open
+ - Bloqueio
+ - Vencimento 15/05/2024
+ - ok
+ - brk
+ - Bloqueio
+ - Vencimento 26/06/2024
+ - ok
+
+Veículo 'HBG7210' contém documentos vencidos!
+ - Ensaio Cronotacógrafo
+ - Bloqueio
+ - Vencimento: 29/04/2024
+ - Efetuar a aferição do tacógrafo no prazo. Informe o transportador para adequação. Enviar o laudo atualizado para o e-mail cronotacografo@coopercarga.com.br
+
+Veículo 'HBG7210' com certificado inválido
+ - OPEN TECH SISTEMAS DE GERENCIAMENTO DE RISCOS S/A - 04.368.185/0001-42
+  - Bloqueio
+ - Vencimento 2/6/24
+OK
+ - brk
+  - Bloqueio
+ - Vencimento 15/4/24
+ok
+
+Veículo 'CVN1F80' com certificado inválido
+ - brasil risk
+  - Bloqueio
+ - Vencimento 1/8/24
+ok
+ - OPEN TECH
+  - Bloqueio
+ - Vencimento 22/9/24
+OK
+
+---------------------------
+OK   
+---------------------------
+homologação VIAGEM : 2024/036491-22 / produção : 2024/109611-22
+
+Sistema: SGL_HOMOLOG_SQL2016
+Versão: 04.05.COOPER.01.1.544
+
+Sistema: SGL_PRODUCAO
+Versão: 04.05.COOPER.01.1.541
