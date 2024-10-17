@@ -1468,13 +1468,17 @@ OK
 
 BENEFICIÁRIO: 10.221.334/0001-49 - ZOE LOGISTICA LTDA
 
-VEICULO: HBG7210 - HBG7210 
+VEICULO: HBG7210 - HBG7210 CAVALO MECANICO
+
+CVN1F80 - SEMI REBOQUE - PORTA CONTAINER
 
 MOTORISTA: 281.092.648-40 - ANDERSON GOMES
 
 CONTRATO: 2014/000062
 
 NEGOCIACAO: 2022/000429 - Negociação CF vinculado ao pedido de coleta
+
+TABELA: 4009 - Tabela valor fixo por faixa de peso
 
 
 COLETA:
@@ -1542,8 +1546,23 @@ OK
 ---------------------------
 homologação VIAGEM : 2024/036491-22 / produção : 2024/109611-22
 
+2024/035516-22 - CF
+2024/035517-22
+
+
 Sistema: SGL_HOMOLOG_SQL2016
 Versão: 04.05.COOPER.01.1.544
 
 Sistema: SGL_PRODUCAO
 Versão: 04.05.COOPER.01.1.541
+
+
+16/10/2024 17:16 - BENNER.JHONATHAN: Tarifa Taxa Administrativa não calculada - Estrutura 512-Tipo de Veiculo.
+Tarifa Taxa de Emissão não calculada - Estrutura 512-Tipo de Veiculo.
+Tarifa Projeto Carreta (Guarujá) não calculada - Estrutura 512-Tipo de Veiculo.
+Tarifa Projeto Carreta (Guarujá) não calculada - Estrutura 504-Nível de Serviço.
+
+
+OP.VIAGEM.PERMITEGERARADIANTAMENTODESPESA
+
+OP.DESPESAADIANTAMENTO.PERMITECANCELAR
