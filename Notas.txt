@@ -1566,3 +1566,8 @@ Tarifa Projeto Carreta (Guarujá) não calculada - Estrutura 504-Nível de Servi
 OP.VIAGEM.PERMITEGERARADIANTAMENTODESPESA
 
 OP.DESPESAADIANTAMENTO.PERMITECANCELAR
+
+
+2338560
+
+O que ele está mexendo na minha fila? 
