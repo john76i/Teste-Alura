@@ -268,23 +268,21 @@ IP produção: 172.16.20.35
 
 ETM (Validar com a revenda)
 
-VPN
-benner.beatriz
-Martins*2024
+usuário e senha para VPN e WTS
 
-W:
-benner.beatriz
-Martins*2024
+Benner.BL
 
-Hologação:
-mstsc: 10.10.1.7
+Benner.CORP
 
-Produção:
-mstsc: 10.10.1.6
+Benner.Infra
 
-Benner:
-benner.jhonathan
-Senha@24
+Benner.Tec
+
+A senha e Varginha+2013
+
+WTS: 10.10.1.6 Produção 
+
+WTS: 10.10.1.7 Homolog
 
 NDD
 
