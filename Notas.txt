@@ -1572,13 +1572,13 @@ OP.DESPESAADIANTAMENTO.PERMITECANCELAR
 
 Gestão Ágil: explorando conceitos da agilidade
 
-Certificado - Gestão Ágil: explorando conceitos da agilidade
+Certificado - Ferramentas para agilidade: visão geral sobre controle de projetos e produtos
 
-Certificado - Gestao Agil - explorando conceitos da agilidade
+Certificado - Ferramentas para agilidade - visao geral sobre controle de projetos e produtos
 
+Management 3.0: gerencie o ambiente, não as pessoas
 
-
-
+https://cursos.alura.com.br/course/monitoramento-prometheus-grafana-alertmanager
 
 
 
