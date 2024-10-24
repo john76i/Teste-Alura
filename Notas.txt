@@ -1572,13 +1572,34 @@ OP.DESPESAADIANTAMENTO.PERMITECANCELAR
 
 Gestão Ágil: explorando conceitos da agilidade
 
-Certificado - Ferramentas para agilidade: visão geral sobre controle de projetos e produtos
+Certificado - Kanban: evolua suas entregas com métricas
 
-Certificado - Ferramentas para agilidade - visao geral sobre controle de projetos e produtos
+Certificado - Kanban - evolua suas entregas com metricas
 
 Management 3.0: gerencie o ambiente, não as pessoas
 
 https://cursos.alura.com.br/course/monitoramento-prometheus-grafana-alertmanager
 
-OP.GESTAOSERVICO.GERENCIARSERVICOADICIONAL
+
+BENEFICIÁRIO: 03.357.962/0001-90
+
+MOTORISTA: 159.687.674-30
+
+Veículo: APR0000 - LTL - AXON PR 
+
+CONTRATO: 2021/000022
+
+NEGOCIACAO: 2021/000328 - AXON_SPOT
+
+2351347
+
+2349422
+
+
+
+
+
+
+
+
 
