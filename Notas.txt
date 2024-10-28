@@ -1570,11 +1570,11 @@ OP.DESPESAADIANTAMENTO.PERMITECANCELAR
 
 2338560
 
-Gestão Ágil: explorando conceitos da agilidade
 
-Certificado - Kanban: evolua suas entregas com métricas
 
-Certificado - Kanban - evolua suas entregas com metricas
+Certificado - ALURA - Formação: Digital & Agile Thinking
+Certificado - ALURA - Formacao - Digital & Agile Thinking
+
 
 Management 3.0: gerencie o ambiente, não as pessoas
 
@@ -1594,6 +1594,74 @@ NEGOCIACAO: 2021/000328 - AXON_SPOT
 2351347
 
 2349422
+
+---------------------------
+Informação
+---------------------------
+Usuário sem permissão para executar alteração de negociação em lote
+OP.PERMITEALTERARNEGOCIACACLIENTEEMLOTE
+---------------------------
+OK   
+---------------------------
+
+03.941.052/0014-75 - ALIBEM ALIMENTOS S.A.
+
+81.800.849/0027-80 - DIVERSOS
+
+2013/001556
+
+845 - Alibem/Agra - Dedicadas - Agronegócio
+
+canoas
+
+
+Monitor 01: 002532
+Monitor 02: 001723
+Maquina : 003890
+
+PATRUS:
+
+BOTICARIO PRODUTOS DE BELEZA LTDA - CONTAGEM - 11.137.051/0095-66
+
+Carine Luciane Armond Dos Santos - BELO HORIZONTE - 009.382.966-39
+
+31240711137051009566550010031595081359391789
+
+Interbelle Com de Prod Beleza Ltda 2017/003882  - CONTRATO
+
+2024/006752 - NEGOCIACAO
+
+31241011137051009566550010000011121359391784
+
+31241011137051009566550010000011131359391781
+
+31241011137051009566550010000011111359391787
+
+EMP0012
+
+2352514
+
+
+Transpaleteira Elétrica : PLE0010
+
+Transpaleteira Elétrica - PADRAO
+
+YALE - MPE0060VG
+
+
+Boa tarde, tudo certo contigo?
+ 
+ 
+2348337 consegui simular e deu certo gerar o serviço depois da atualização e ajuste da configuração 
+ 
+eu adicionei a SMS o manual das configurações que realizei no ambiente
+ 
+
+Mensagem: A configuração OP.CF.CONTRATOFRETE.ALTERARCENTRODECUSTO não existe na definição de configurações do sistema!
+-----Fila de erros ----------------------
+17:00:44: A configuração OP.CF.CONTRATOFRETE.ALTERARCENTRODECUSTO não existe na definição de configurações do sistema!
+
+
 
 
 

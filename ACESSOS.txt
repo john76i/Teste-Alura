@@ -660,9 +660,24 @@ IBGE:
 
 https://www.ibge.gov.br/geociencias/organizacao-do-territorio/estrutura-territorial/23701-divisao-territorial-brasileira.html?=&t=o-que-e&utm_source=landing&utm_medium=explica&utm_campaign=codmun
 
+-------------------------------------------------------------------
+bnu-logsuptms1
 
+04.09
 
+BL_SUP_TMS_ROADMAP_04.09_HOMOLOG
+ 
+sysdba / Benner@2023
 
+http://bnu-logsuptms1/BL_SUP_TMS101_ROADMAP_04.09_HOMOLOG/Default.aspx
+
+05.00
+
+BL_SUP_TMS_ROADMAP_05.00
+
+sysdba / Benner@2025
+
+http://bnu-logsuptms1/BL_SUP_TMS_ROADMAP_05.00/Default.aspx
 
 
 
