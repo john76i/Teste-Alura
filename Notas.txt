@@ -385,6 +385,8 @@ SELECT * FROM GLOP_PERCURSOS WHERE DESTINO = '82248'
 
 SELECT * FROM GLGL_PARAMETROS
 
+SELECT * FROM GLGL_PESSOACONFIGURACOES
+
 SELECT * FROM GLOP_COLETAINTEGRACAOATS
 
 SELECT * FROM GLOP_COLETAINTEGRACAOATS WHERE PLACA1 = 'QUJ3717'
@@ -1356,26 +1358,6 @@ OP.CONTRATOFRETE.FRACIONADO.POR.DOCUMENTO
 SELECT CONFIGLANCTOSFORNECEDOR FROM GLCM_NEGOCIACOES WHERE HANDLE = 1114
 
 
-https://cursos.alura.com.br/formacao-gestao-produtos
-
-https://cursos.alura.com.br/formacao-digital-e-agile-thinking
-
-
-https://cursos.alura.com.br/course/monitoramento-prometheus-grafana-alertmanager
-
-Kanban: marque o ritmo com cadências
-
-Certificado - Kanban: práticas avançadas incluindo gestão de portfólio
-
-Certificado - Kanban - praticas avancadas incluindo gestao de portfolio
-
-Certificado - ALURA - Formação Kanban
-
-Certificado - ALURA - Formacao Kanban
-
-137347
-
-LogisticaEDI.CteImportacao
 
 SELECT * FROM GLID_IMPDOCANTERIORES
 
@@ -1389,5 +1371,14 @@ SELECT * FROM GLID_IMPDOCANTERIORES
 
 
 DELETE FROM  GLID_IMPLOTES WHERE STATUS = 535
+
+GLID_IMPDOCCTEPROPRIOS
+
+{ Parametros do sistema }
+  cEdiParamDiretorioDocumentoEntrada    = 'CTE.DIRETORIOIMPORTACAOCTEENTRADA';
+  cEdiParamDiretorioDocumentoAnterior   = 'CTE.DIRETORIOIMPORTACAOCTEANTERIOR';
+  cEdiParamDiretorioDocumentoCTeProprio = 'EDI.CTEPROPRIO.DIRETORIOIMPORTACAO';
+  cEdiParamDiretorioDocumentoCTeProprioFiscalSaida = 'EDI.CTEPROPRIO.DIRETORIOIMPORTACAOFISCALSAIDA';
+
 
 
