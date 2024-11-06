@@ -346,7 +346,7 @@ https://client.wvd.microsoft.com/arm/webclient/index.html
 
 Usuário: benner.jhonathan.g@patrus.com.br  
 
-Senha: Asdfg3#!
+Senha: 1+ssT54C30<
 
 Senha:  vwzttmrbnkvskgsq
 
@@ -357,7 +357,7 @@ sysdba \ keymaster
 ACESSO A BASE PROD.: 
 benner.jhonathan.g
 
-Asdfg3#!
+12345
 
 e-monitor: ndd / Patrus2024@Re
 
@@ -379,7 +379,7 @@ hml50.patrus.com.br
 
 
 acesso app:
-benner.jhonathan.g / Bl24@123
+benner.jhonathan.g / 12345
 
 ****************************************************************
 
@@ -407,23 +407,15 @@ JFW (Validar com a revenda)
 
 Arquivos Open Vpn
 
-Usuario benner2
-Senha: @@Jfw6060##@@
-
 jhonathan.benner
-@@Benner##
+##Fabrica
 
 ////////////////////////
 
 
 10.213.0.11
 usuario benner2@jfw.dc
-senha: @@Jfw6060##@@
-
-jhony.benner
-@@B3nn3r##
-
-mailto:jhony.benner@jfw.dc
+senha: @@Jfw6060##
 
 HML_3:
 
