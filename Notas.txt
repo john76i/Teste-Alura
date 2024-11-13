@@ -1391,20 +1391,16 @@ FROM GLGL_DOCUMENTOS WHERE HANDLE = '4250830'
 
 SELECT * FROM GLCM_TABELAPRECOS WHERE HANDLE = '4009'
 
+Segue em anexo duas documentações conforme alinhado com o analista Ricardo Gebien, Uma para o Erro no botão de exclusão de integração com o fiscal, e a outra com o erro de calculo do ICMS.
 
 
 
+Certificado - Educação Corporativa: diagnosticando necessidades de treinamento
 
-Certificado - ALURA - Formação: Apresentações de alto impacto
-
-Certificado - ALURA - Formacao - Apresentacoes de alto impacto
-
-Formação - Apresentações de alto impacto
+Certificado - Educacao Corporativa - diagnosticando necessidades de treinamento
 
 
-VIAGEM: 2024/419246-7
+2358477:
+Erros identificados referente ao processo de importação CTe Substituição via fiscal saída (SMS original 2318148)
 
-PLACA: PYB2534 
-
-2356292
-
+2358477 - ERRO AO EXCLUIR FISCAL

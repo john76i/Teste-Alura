@@ -580,7 +580,7 @@ LINK:
 http://bnu-logsuptms1/BL_SUP_WES_4.9
 
 
-ACESSO: sysdba/Benner@2025
+ACESSO: sysdba/Benner@2023
 
 ****************************************************************
 SERVIDOR:bnu-logsuptms1
@@ -649,6 +649,14 @@ Acesso ao sistema:
 Usuário: sysdba
 Senha: masterkey	
 
+Homologação: 
+Usuário: suporte_benner
+Senha: masterkey
+
+Produção:
+usuário: suporte_benner 
+senha J5/*h17d454c
+
 ---------------------------------------------------------------
 IBGE:
 
@@ -663,6 +671,8 @@ BL_SUP_TMS_ROADMAP_04.09_HOMOLOG
  
 sysdba / Benner@2023
 
+supbl /12345 USER TESTE SUPORTE 
+
 http://bnu-logsuptms1/BL_SUP_TMS101_ROADMAP_04.09_HOMOLOG/Default.aspx
 
 05.00
@@ -673,6 +683,8 @@ sysdba / Benner@2025
 
 http://bnu-logsuptms1/BL_SUP_TMS_ROADMAP_05.00/Default.aspx
 
+Dóminio: benner.com.br
+ 
 
 ---------------------------------------------------------------------------------------------------------
 
