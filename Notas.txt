@@ -1381,60 +1381,6 @@ GLID_IMPDOCCTEPROPRIOS
   cEdiParamDiretorioDocumentoCTeProprioFiscalSaida = 'EDI.CTEPROPRIO.DIRETORIOIMPORTACAOFISCALSAIDA';
 
 
-2297846
-
----------------------------
-Informação
----------------------------
-Mensagem que eu fiz<<<
----------------------------
-OK   
----------------------------
-
----------------------------
-Erro
----------------------------
-Erro PASSO 2 - Gerar o Contas A Pagar do Contrato de Frete!
-Erro ao incluir lan�amento financeiro!
-FINOBJ - Cálculo das contas financeiras: Moeda "DOLAR" está sem cotação que não seja previsão para o dia "23/01/2024"
-Valor do lan�amento da conta: 2410
-Conta..: Outras despesas
-C.Custo: Geral Frotas
-Projeto: Projeto Alfa
----------------------------
-OK   
----------------------------
-
- 2023/000003-10
-
-
----------------------------
-Informação
----------------------------
-Não foi possível calcular o contrato de frete.
-Tarifa Base de Cálculo não calculada - Estrutura 478 - Percurso.
-Exceção: Tabela de Preço não atende os valores especificados para cálculo - Tarifa Padrão!
-Tarifa Base de Cálculo não calculada - Estrutura 478 - Percurso.
-Exceção: Tabela de Preço não atende os valores especificados para cálculo - Tarifa Padrão!
-. 
----------------------------
-OK   
----------------------------
-
-TABELA: 4009
-
-PERCURSO: Pereiras - Município | Guaruja - Município400
-
-VIAGEM: 2024/114862-22
-
-TOMADOR: 02.427.026/0012-07 - ALIANCA NAVEGACAO E LOGISTICA LTDA
-
-CONTRATO: 2014/000062
-
-NEGOCIACAO: 2023/000153 - Negociação complementar de Serviço e NF (Subtipo Sem CT-e)
-
-TOMADOR: 2093
-
 SELECT * FROM GLGL_DOCUMENTOS WHERE HANDLE = '4250830'
 
 SELECT * FROM GLCM_NEGOCIACOES WHERE HANDLE = '5934'
@@ -1445,17 +1391,20 @@ FROM GLGL_DOCUMENTOS WHERE HANDLE = '4250830'
 
 SELECT * FROM GLCM_TABELAPRECOS WHERE HANDLE = '4009'
 
-2353849
-
-2023/150444-22
 
 
 
-Certificado - PowerPoint: aplicando movimento em apresentações
 
-Certificado - PowerPoint - aplicando movimento em apresentacoes
+Certificado - ALURA - Formação: Apresentações de alto impacto
+
+Certificado - ALURA - Formacao - Apresentacoes de alto impacto
+
+Formação - Apresentações de alto impacto
 
 
-MOTORISTA:
+VIAGEM: 2024/419246-7
 
-PLACA: 068.604.876-82 - RONALDO CORRADI FILHO
+PLACA: PYB2534 
+
+2356292
+

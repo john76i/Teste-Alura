@@ -381,6 +381,8 @@ hml50.patrus.com.br
 acesso app:
 benner.jhonathan.g / 12345
 
+benner.simone.matos / Suporte@2025
+
 ****************************************************************
 
 PROJETOS DSV (Solicitar atulização a Tamiris Fontanella de Lima, não passar o acesso dessa base para o suporte ERP)
@@ -677,9 +679,11 @@ http://bnu-logsuptms1/BL_SUP_TMS_ROADMAP_05.00/Default.aspx
 Resetar a senha :
 https://minhasenha.bennercloud.com.br/private/login
  
+-----------------------------------------------------------------------------------------------------
 
+http://bnu-logsuptms1/BL_ROADMAP_SUP_0500
 
-
+sysdba/Benner@2025
 
 
 
