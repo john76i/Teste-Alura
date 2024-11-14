@@ -1395,12 +1395,22 @@ Segue em anexo duas documentações conforme alinhado com o analista Ricardo Geb
 
 
 
-Certificado - Educação Corporativa: diagnosticando necessidades de treinamento
+Certificado - Segurança Psicológica: lidere e construa ambientes de confiança e inovação
 
-Certificado - Educacao Corporativa - diagnosticando necessidades de treinamento
+Certificado - Seguranca Psicologica - lidere e construa ambientes de confianca e inovacao
 
 
 2358477:
 Erros identificados referente ao processo de importação CTe Substituição via fiscal saída (SMS original 2318148)
 
 2358477 - ERRO AO EXCLUIR FISCAL
+
+31241159546515004636550110000014111923133059
+
+59.546.515/0046-36 - FISIA COMERCIO DE PRODUTOS ESPORTIVOS SA
+
+59.546.515/0066-80 - FISIA COMERCIO DE PRODUTOS ESPORTIVOS S.A.
+
+08.046.796/0001-25 - VBLOG LOGISTICA E TRANSPORTES LTDA
+
+82199
