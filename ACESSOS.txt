@@ -270,15 +270,9 @@ ETM (Validar com a revenda)
 
 usuário e senha para VPN e WTS
 
-Benner.BL
+Benner.bl
 
-Benner.CORP
-
-Benner.Infra
-
-Benner.Tec
-
-A senha e Varginha+2013
+Senha: Martins@2
 
 WTS: 10.10.1.6 Produção 
 
@@ -357,7 +351,7 @@ sysdba \ keymaster
 ACESSO A BASE PROD.: 
 benner.jhonathan.g
 
-12345
+keymaster
 
 e-monitor: ndd / Patrus2024@Re
 
@@ -382,6 +376,8 @@ acesso app:
 benner.jhonathan.g / 12345
 
 benner.simone.matos / Suporte@2025
+
+logistica-03
 
 ****************************************************************
 
@@ -592,7 +588,7 @@ U: sysdba / Benner@2023
 ****************************************************************
 usuario: bennercloud\benner.jonathan.g
 
-ACcess1030%#
+ACcess1030%*
 
 bennercloud\benner.vinicius.v
 
