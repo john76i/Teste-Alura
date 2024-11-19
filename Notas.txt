@@ -1391,26 +1391,12 @@ FROM GLGL_DOCUMENTOS WHERE HANDLE = '4250830'
 
 SELECT * FROM GLCM_TABELAPRECOS WHERE HANDLE = '4009'
 
-Segue em anexo duas documentações conforme alinhado com o analista Ricardo Gebien, Uma para o Erro no botão de exclusão de integração com o fiscal, e a outra com o erro de calculo do ICMS.
 
 
+Formação aprendizagem - https://cursos.alura.com.br/formacao-aprendizagem
 
-Certificado - Técnicas de aprendizagem: construindo seu planejamento de estudos
+Certificado - Aprendizagem com IA: personalizando sua rotina com ChatGPT
 
-Certificado - Tecnicas de aprendizagem - construindo seu planejamento de estudos
+Certificado - Aprendizagem com IA - personalizando sua rotina com ChatGPT
 
 
-2358477:
-Erros identificados referente ao processo de importação CTe Substituição via fiscal saída (SMS original 2318148)
-
-2358477 - ERRO AO EXCLUIR FISCAL
-
-31241159546515004636550110000014111923133059
-
-59.546.515/0046-36 - FISIA COMERCIO DE PRODUTOS ESPORTIVOS SA
-
-59.546.515/0066-80 - FISIA COMERCIO DE PRODUTOS ESPORTIVOS S.A.
-
-08.046.796/0001-25 - VBLOG LOGISTICA E TRANSPORTES LTDA
-
-82199

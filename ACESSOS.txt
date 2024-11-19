@@ -278,6 +278,10 @@ WTS: 10.10.1.6 Produção
 
 WTS: 10.10.1.7 Homolog
 
+Sistema: LOGISTICA_HOMOLOG_2 
+
+Usuário/Senha: benner.jhonathan / Senha@24 
+
 NDD
 
 https://webcte2pd.e-datacenter.nddigital.com.br/softcenter_app/eMonitor/
