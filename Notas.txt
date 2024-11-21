@@ -1393,10 +1393,10 @@ SELECT * FROM GLCM_TABELAPRECOS WHERE HANDLE = '4009'
 
 
 
-Formação aprendizagem - https://cursos.alura.com.br/formacao-aprendizagem
+https://cursos.alura.com.br/formacao-habilidades-comportamento
 
-Certificado - Aprendizagem com IA: personalizando sua rotina com ChatGPT
+Certificado - Google Analytics: configurando a conta e extraindo relatórios
 
-Certificado - Aprendizagem com IA - personalizando sua rotina com ChatGPT
+Certificado - Google Analytics - configurando a conta e extraindo relatorios
 
 
