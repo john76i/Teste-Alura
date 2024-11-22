@@ -1395,8 +1395,13 @@ SELECT * FROM GLCM_TABELAPRECOS WHERE HANDLE = '4009'
 
 https://cursos.alura.com.br/formacao-habilidades-comportamento
 
-Certificado - Google Analytics: configurando a conta e extraindo relatórios
+Certificado - Andragogia - aprimore a educaCAo de pessoas adultas
 
-Certificado - Google Analytics - configurando a conta e extraindo relatorios
+Certificado - Andragogia: aprimore a educação de pessoas adultas
+
+CT-e Simplificado LOGISTICA - 05.00.5.361
+
+
+
 
 
