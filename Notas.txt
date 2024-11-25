@@ -1395,13 +1395,13 @@ SELECT * FROM GLCM_TABELAPRECOS WHERE HANDLE = '4009'
 
 https://cursos.alura.com.br/formacao-habilidades-comportamento
 
-Certificado - Andragogia - aprimore a educaCAo de pessoas adultas
+Certificado - Pontos fortes parte 2 - habilidades e competencias
 
-Certificado - Andragogia: aprimore a educação de pessoas adultas
+Certificado - Pontos fortes parte 2: habilidades e competências
 
 CT-e Simplificado LOGISTICA - 05.00.5.361
 
+Entregas parciais somente para o ano que vem.
 
-
-
+2022608
 
