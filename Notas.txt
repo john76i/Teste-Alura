@@ -1395,9 +1395,9 @@ SELECT * FROM GLCM_TABELAPRECOS WHERE HANDLE = '4009'
 
 https://cursos.alura.com.br/formacao-habilidades-comportamento
 
-Certificado - Estresse parte 2: equilibre seu estilo de vida
+Certificado - ALURA - Formação: Habilidades e comportamento
 
-Certificado - Estresse parte 2 - equilibre seu estilo de vida
+Certificado - ALURA - Formacao - Habilidades e comportamento
 
 CT-e Simplificado LOGISTICA - 05.00.5.361
 
@@ -1408,13 +1408,4 @@ Entregas parciais somente para o ano que vem.
 2022325
 
 SELECT * FROM Z_PAPELATRIBUICOES WHERE USUARIO > 0 ORDER BY HANDLE DESC
-
-
-
-
-
-
-
-
-
 
