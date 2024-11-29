@@ -1395,9 +1395,9 @@ SELECT * FROM GLCM_TABELAPRECOS WHERE HANDLE = '4009'
 
 https://cursos.alura.com.br/formacao-habilidades-comportamento
 
-Certificado - ALURA - Formação: Habilidades e comportamento
+Certificado - Educacao corporativa - engaje seu time na aprendizagem
 
-Certificado - ALURA - Formacao - Habilidades e comportamento
+Certificado - Educação corporativa: engaje seu time na aprendizagem
 
 CT-e Simplificado LOGISTICA - 05.00.5.361
 
