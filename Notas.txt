@@ -1409,3 +1409,27 @@ Entregas parciais somente para o ano que vem.
 
 SELECT * FROM Z_PAPELATRIBUICOES WHERE USUARIO > 0 ORDER BY HANDLE DESC
 
+---------------------------
+Advertência
+---------------------------
+Usuário sem permissão para visualizar o contrato de frete. Permissão: OP.CONTRATOFRETE.PERMITEABRIRCONTRATOPELAVIAGEM
+---------------------------
+OK   
+---------------------------
+---------------------------
+Advertência
+---------------------------
+Usuário sem permissão para visualizar o contrato de frete. Permissão: OP.CONTRATOFRETE.PERMITEABRIRCONTRATOPELAVIAGEM
+---------------------------
+OK   
+---------------------------
+
+
+
+59.105.999/0039-59 - WHIRLPOOL S.A
+
+41.615.453/0001-00 - CLIENTE CAMPINA GRANDE TESTE
+
+2024/000007 CONTRATO
+
+Negociação: Negociação Whirpool
