@@ -1392,44 +1392,47 @@ FROM GLGL_DOCUMENTOS WHERE HANDLE = '4250830'
 SELECT * FROM GLCM_TABELAPRECOS WHERE HANDLE = '4009'
 
 
+SELECT * FROM Z_PAPELATRIBUICOES WHERE USUARIO > 0 ORDER BY HANDLE DESC
 
-https://cursos.alura.com.br/formacao-habilidades-comportamento
-
-Certificado - Educacao corporativa - engaje seu time na aprendizagem
-
-Certificado - Educação corporativa: engaje seu time na aprendizagem
-
-CT-e Simplificado LOGISTICA - 05.00.5.361
-
-Entregas parciais somente para o ano que vem.
 
 2022608
 
 2022325
 
-SELECT * FROM Z_PAPELATRIBUICOES WHERE USUARIO > 0 ORDER BY HANDLE DESC
+
+AGI0001 - LTL - AGIL - PLACA 
+
+26.754.555/0001-12 - AGIL SERVICOS DE COLETAS E ENTREGAS DE CARGAS E ENCOMENDAS LTDA - MOTORISTA
+
+19.318.040/0001-04 - Gnc Import Comercio De Veiculos Ltda
+
+00.882.430/0006-99 - BMW DO BRASIL LTDA
+
 
 ---------------------------
-Advertência
+Informação
 ---------------------------
-Usuário sem permissão para visualizar o contrato de frete. Permissão: OP.CONTRATOFRETE.PERMITEABRIRCONTRATOPELAVIAGEM
+Contrato 'AGIL-2018/000099' não atende o Tipo de Viagem de 'Lotação' e Subtipo 'Operação FTL CJM'.
+
+
 ---------------------------
 OK   
 ---------------------------
----------------------------
-Advertência
----------------------------
-Usuário sem permissão para visualizar o contrato de frete. Permissão: OP.CONTRATOFRETE.PERMITEABRIRCONTRATOPELAVIAGEM
----------------------------
-OK   
----------------------------
 
+2018/000475 - SERVIÇO MANUAL
 
+2024/000057-101
 
-59.105.999/0039-59 - WHIRLPOOL S.A
+2018/000010
 
-41.615.453/0001-00 - CLIENTE CAMPINA GRANDE TESTE
+2017/000050 - NEGOCIACAO BMW FTL - TP/Lotação
 
-2024/000007 CONTRATO
+Certificado - Segurança Psicologica - promova um ambiente de trabalho seguro e colaborativo
 
-Negociação: Negociação Whirpool
+Certificado - Segurança Psicológica: promova um ambiente de trabalho seguro e colaborativo
+
+6,10 - 30,50
+2,90 - 20,30
+3,20
+5,90
+59,90
