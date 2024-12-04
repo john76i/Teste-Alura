@@ -1400,39 +1400,74 @@ SELECT * FROM Z_PAPELATRIBUICOES WHERE USUARIO > 0 ORDER BY HANDLE DESC
 2022325
 
 
-AGI0001 - LTL - AGIL - PLACA 
 
-26.754.555/0001-12 - AGIL SERVICOS DE COLETAS E ENTREGAS DE CARGAS E ENCOMENDAS LTDA - MOTORISTA
-
-19.318.040/0001-04 - Gnc Import Comercio De Veiculos Ltda
-
-00.882.430/0006-99 - BMW DO BRASIL LTDA
-
-
----------------------------
-Informação
----------------------------
-Contrato 'AGIL-2018/000099' não atende o Tipo de Viagem de 'Lotação' e Subtipo 'Operação FTL CJM'.
-
-
----------------------------
-OK   
----------------------------
-
-2018/000475 - SERVIÇO MANUAL
-
-2024/000057-101
-
-2018/000010
-
-2017/000050 - NEGOCIACAO BMW FTL - TP/Lotação
 
 Certificado - Segurança Psicologica - promova um ambiente de trabalho seguro e colaborativo
 
 Certificado - Segurança Psicológica: promova um ambiente de trabalho seguro e colaborativo
 
-6,10 - 30,50
-2,90 - 20,30
-3,20
-5,90
-59,90
+
+
+
+
+
+BENEFICIÁRIO VEICULO: 01.572.139/0001-72 - TH TRANSPORTES - HANDLE - 837548
+
+VEICULO: COP2729
+
+MOTORISTA: 447.588.420-94 - JOAO DE BARRO SILVA - HANDLE - 837549
+
+NOTA:
+
+61.412.110/0523-84 - Drogaria Sao Paulo S.A
+
+14.998.371/0013-52 - J MACEDO S/A
+
+
+266.844.168-46 - RAFAEL ZOMIGNAN
+SHOWMETHEHANDLES
+
+Osasco - Município | Jaboatão dos Guararapes - Município
+
+---------------------------
+Informação
+---------------------------
+Existem certificados vencidos para: PLINIO SILVEIRA DA COSTA - BRASIL RISK
+ - Bloqueio
+ - Vencimento 07/10/2022
+ - ...
+
+Veículo 'JBB9I12' contém documentos vencidos!
+ - Ensaio Cronotacógrafo
+ - Bloqueio
+ - Vencimento: 07/02/2024
+ - Efetuar a aferição Do tacógrafo no prazo. Informe o transportador para adequação. Enviar o laudo atualizado para o e-Mail cronotacografo@coopercarga.com.br
+Veículo 'JWU6655' contém documentos vencidos!
+ - Licenciamento
+ - Bloqueio
+ - Vencimento: 30/05/2024
+ - Licenciamento vencido, favor verificar e se necessário ajuste, encaminhar a CRLV atualizada para o e-mail cadastros@coopercarga.com.br (Cadastros CSC). 
+
+
+Veículo 'JWU6655' com certificado inválido
+ - raster
+  - Bloqueio
+ - Vencimento 18/4/24
+Bloquear
+
+---------------------------
+OK   
+---------------------------
+
+GLGL_VEICULOCERTIFICADOS
+
+
+
+SHOWMETHEHANDLES
+
+
+
+06.253.424/0001-44 - MACHADO TRANSPORTES LTDA - HANDLE = 606472
+
+
+2024/035628-35
