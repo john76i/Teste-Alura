@@ -1313,7 +1313,7 @@ SELECT * FROM GLOP_PERCURSOS WHERE ORIGEM = '9'
 
 SELECT * FROM GLOP_PERCURSOS WHERE DESTINO = '48468'
 
-select * from glgl_enumeracaoitems where codigo in (select TIPO from GLGL_LOCALIDADES)
+select * from glgl_enumeracaoitems where codigo in (select TIPO from GLOP_CHECKLISTPROCESSOS)
 
 SELECT * FROM GLGL_LOCALIDADES WHERE MUNICIPIO = '5796'
 
@@ -1429,35 +1429,7 @@ SHOWMETHEHANDLES
 
 Osasco - Município | Jaboatão dos Guararapes - Município
 
----------------------------
-Informação
----------------------------
-Existem certificados vencidos para: PLINIO SILVEIRA DA COSTA - BRASIL RISK
- - Bloqueio
- - Vencimento 07/10/2022
- - ...
 
-Veículo 'JBB9I12' contém documentos vencidos!
- - Ensaio Cronotacógrafo
- - Bloqueio
- - Vencimento: 07/02/2024
- - Efetuar a aferição Do tacógrafo no prazo. Informe o transportador para adequação. Enviar o laudo atualizado para o e-Mail cronotacografo@coopercarga.com.br
-Veículo 'JWU6655' contém documentos vencidos!
- - Licenciamento
- - Bloqueio
- - Vencimento: 30/05/2024
- - Licenciamento vencido, favor verificar e se necessário ajuste, encaminhar a CRLV atualizada para o e-mail cadastros@coopercarga.com.br (Cadastros CSC). 
-
-
-Veículo 'JWU6655' com certificado inválido
- - raster
-  - Bloqueio
- - Vencimento 18/4/24
-Bloquear
-
----------------------------
-OK   
----------------------------
 
 GLGL_VEICULOCERTIFICADOS
 
@@ -1471,3 +1443,28 @@ SHOWMETHEHANDLES
 
 
 2024/035628-35
+
+
+COP2729
+
+
+select A.HANDLE, A.EMPRESA, 
+A.CONTRATO, A.PROPOSTA, 
+A.CHECKLIST, A.COLETAPEDIDO, 
+A.VIAGEM, A.DOCUMENTO, A.VEICULO, 
+A.PONTOPARADAVIAGEM, A.PERIODOVIAGEM, 
+A.ORIGEMINTERNA, A.DATAINCLUSAO, 
+A.USUARIOINCLUIU, A.RESPONDIDOPOR, 
+A.STATUS, A.EXIGIROCORRENCIA, A.PROCESSOBLOQUEADO, 
+A.BLOQUEARCONTRATOFRETE, A.BLOQUEARFATURAMENTO, 
+A.DATARESPOSTA, A.DATALIBERACAOFATURAMENTO, 
+A.DATALIBERACAOCF, A.K_MOBILE, 
+A.K_DATAINCLUSAO from GLOP_CHECKLISTPROCESSOS A  
+where A.CHECKLIST = 908 
+AND A.VEICULO =  135983
+AND A.STATUS <>  and (A.EMPRESA = 1)
+
+
+2024/036568-35
+
+2024/035633-35
