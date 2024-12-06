@@ -276,9 +276,9 @@ ETM (Validar com a revenda)
 
 usuário e senha para VPN e WTS
 
-Benner.bl
+sminas.luciana
 
-Senha: Martins@2
+Senha: Varginha+2013
 
 WTS: 10.10.1.6 Produção 
 
@@ -521,7 +521,7 @@ WTS: global.maxmohr.com.br
 
 Usuario: maxmohr\benner
 
-S: Maxmohr@212223
+S: Maxmohr@2024
 
 USER = sysdba  | SENHA = benner
 

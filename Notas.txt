@@ -1402,9 +1402,9 @@ SELECT * FROM Z_PAPELATRIBUICOES WHERE USUARIO > 0 ORDER BY HANDLE DESC
 
 
 
-Certificado - Segurança Psicologica - promova um ambiente de trabalho seguro e colaborativo
+Certificado - Delegacao de tarefas - obtenha o melhor do seu time
 
-Certificado - Segurança Psicológica: promova um ambiente de trabalho seguro e colaborativo
+Certificado - Delegação de tarefas: obtenha o melhor do seu time
 
 
 
@@ -1467,4 +1467,4 @@ AND A.STATUS <>  and (A.EMPRESA = 1)
 
 2024/036568-35
 
-2024/035633-35
+2024/035645-35
