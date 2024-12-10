@@ -1394,6 +1394,9 @@ SELECT * FROM GLCM_TABELAPRECOS WHERE HANDLE = '4009'
 
 SELECT * FROM Z_PAPELATRIBUICOES WHERE USUARIO > 0 ORDER BY HANDLE DESC
 
+SELECT * FROM GLGL_ENUMERACAOITEMS WHERE ENUMERACAO IN
+(SELECT ENUMERACAO FROM GLGL_ENUMERACAOITEMS WHERE HANDLE = 180)
+
 
 2022608
 
@@ -1484,3 +1487,31 @@ COLETA:
 
 VIAGEM ATUAL:
 2024/000099-2
+
+
+
+
+137348
+
+
+2024/036568-35
+
+CT-e 37371
+
+OP.CONTRATOFRETE.GERARFINANCEIROFRETECOMBINADO
+
+---------------------------
+Erro
+---------------------------
+Usuário sem permissão para estornar ocorrência. (OP.PERMITEESTORNAROCORRENDOCUMENTOS)
+---------------------------
+OK   
+---------------------------
+
+---------------------------
+Erro
+---------------------------
+Usuário sem permissão para realizar o estorno do documento. (OP.OCORRENCIA.PERMITIRUSUARIOESTORNARDOCUMENTOCONCLUIDO)
+---------------------------
+OK   
+---------------------------

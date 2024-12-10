@@ -647,6 +647,8 @@ Domínio: coopercargo.net
 Após conectar na VPN, acessar o WTS:
 
 IP: 192.168.100.234
+IP: 192.168.100.238 - HML
+
 Usuário:coopercargo.net\suporte_benner
 Senha: J5/*h17d454c
 
