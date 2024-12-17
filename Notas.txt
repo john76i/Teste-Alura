@@ -1405,9 +1405,9 @@ SELECT * FROM GLGL_ENUMERACAOITEMS WHERE ENUMERACAO IN
 
 
 
-Certificado - Arquitetura da Informação: técnicas de pesquisa para projetar experiências digitais
+Certificado - Gestão comportamental: potencializando a autoliderança
 
-Certificado - Arquitetura da Informação - técnicas de pesquisa para projetar experiências digitais
+Certificado - Gestão comportamental - potencializando a autoliderança
 
 
 CONFIGURAÇÕES ESPECIAIS - OCORRENCIA:
@@ -1438,4 +1438,29 @@ OP.DOCUMENTO.PERMITEALTERARRESPOCORRENCIA
 
 OP.COLETA.PERMITEINSERIROCORRENCIAVIAGEMEMTRANSITO
 
-Ajuste do Layout Oficial da Extratta. (Envio da quantidade de eixos).
+
+---
+VIAGEM: 2024/036414-35
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

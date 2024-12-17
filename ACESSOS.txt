@@ -253,11 +253,6 @@ ProduÃ§Ã£o:
 UsuÃ¡rio: benner.jhonathan
 senha: Senha@2025
 
-
-2-Usuário:  benner.beatriz
-2-Senha:  Benner@2025
-
-
 Builder
 \\192.168.0.18\temp\Builder
 
