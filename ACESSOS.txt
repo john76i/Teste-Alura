@@ -384,6 +384,8 @@ benner.jhonathan.g / 12345
 
 benner.simone.matos / Suporte@2025
 
+USUARIO/SENHA: usuario.123 / 12345
+
 Servidir Produção: logistica-03
 
 ****************************************************************
@@ -661,6 +663,9 @@ Senha: masterkey
 Produção:
 usuário: suporte_benner 
 senha J5/*h17d454c
+
+
+
 
 ---------------------------------------------------------------
 IBGE:
