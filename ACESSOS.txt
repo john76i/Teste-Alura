@@ -664,8 +664,11 @@ Produção:
 usuário: suporte_benner 
 senha J5/*h17d454c
 
+e-MONITOR:
+https://webcte2hm.e-datacenter.nddigital.com.br/eFormseMonitor/Account/Login 
 
-
+Usuário: COOPERCARGO_MASTER
+Senha: BLmasterkey@2025
 
 ---------------------------------------------------------------
 IBGE:
