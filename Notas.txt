@@ -1405,9 +1405,9 @@ SELECT * FROM GLGL_ENUMERACAOITEMS WHERE ENUMERACAO IN
 
 
 
-Certificado - Gestão comportamental: potencializando a autoliderança
+Certificado - Tomada de decisão: pensar, analisar e agir
 
-Certificado - Gestão comportamental - potencializando a autoliderança
+Certificado - Tomada de decisão - pensar, analisar e agir
 
 
 CONFIGURAÇÕES ESPECIAIS - OCORRENCIA:
@@ -1466,7 +1466,7 @@ SMS Gestão de Serviços - Patrus:
 
 
 
-
+2024/912137-2
 
 
 
