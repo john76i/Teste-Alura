@@ -1511,3 +1511,15 @@ COP2729 - TRUCK
 2372023 - AMBEV 5.0 - Instância de Objeto ao gerar CF com TAG
 
 
+2372644
+2372023
+
+2024/036488-61
+
+---------------------------
+Erro
+---------------------------
+Problema ocorrido ao emitir documento(s): A apólice '5400035906' não esta mais vigente. Verifique no módulo 'Gestão de Seguros > Apólices > Ativos > 5400035906 > Período de Vigência.'
+---------------------------
+OK   
+---------------------------
