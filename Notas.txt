@@ -1502,24 +1502,16 @@ OP.DOCUMENTO.PERMITEAPLICARPONTOPARADA
 OP.CONTRATOFRETE.PERMITIRMANIPULARLANCAMENTOSFINANCEIROS
 
 
-01.572.139/0001-72 - COOPERATIVA DOS TRAN
-COP2729 - TRUCK
-447.588.420-94 - JOAO DE BARRO SILVA
 
 
 
-2372023 - AMBEV 5.0 - Instância de Objeto ao gerar CF com TAG
+01.257.995/0022-68 - GOIASMINAS INDUSTRIA DE LATICINIOS LTDA
+
+12.539.517/0004-85 - 707 Auto-Servico De Alimentos Ltda
+
+01.257.995/0022-68 - GOIASMINAS INDUSTRIA DE LATICINIOS LTDA
 
 
-2372644
-2372023
+2025/000039-35
 
-2024/036488-61
 
----------------------------
-Erro
----------------------------
-Problema ocorrido ao emitir documento(s): A apólice '5400035906' não esta mais vigente. Verifique no módulo 'Gestão de Seguros > Apólices > Ativos > 5400035906 > Período de Vigência.'
----------------------------
-OK   
----------------------------
