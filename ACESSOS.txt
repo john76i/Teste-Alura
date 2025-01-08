@@ -273,7 +273,7 @@ ETM (Validar com a revenda)
 
 usuário e senha para VPN e WTS
 
-sminas.luciana
+Benner.bl
 
 Senha: Varginha+2013
 
@@ -284,6 +284,11 @@ WTS: 10.10.1.7 Homolog
 Sistema: LOGISTICA_HOMOLOG_2 
 
 Usuário/Senha: benner.jhonathan / Senha@24 
+
+Usuário/Senha: sminas.luizfernando / Varginha+2013
+
+BENNER.SIMONE - Suporte@2026
+ 
 
 NDD
 
