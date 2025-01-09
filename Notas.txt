@@ -1535,9 +1535,22 @@ RYC1D66 - CV / MJY5G62 - SEMI
 
 ---------------------------------------------------------------------
 
-SER1G56 - VUC - 
-
-006.667.619-30 - CARLOS ALEXANDRE DE JESU
 
 
-2362214
+"Módulo ADM \ Parâmetros \ Filiais \ CNPJ Ambev - Integrações WS "
+
+
+GLOP.VIAGEMFRM.GRID.CARREGAMENTO
+
+OP.GV.REINICIOVIAGEMSEMENCERRAR
+
+
+07.526.557/0005-33
+
+
+SYLVANIA ILUMINACION S/A
+
+
+BAUDUCCO FOODS INC
+
+select * from gn_pessoas where tipo = '4'
