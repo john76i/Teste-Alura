@@ -1497,22 +1497,7 @@ CT-e: 137413
 
 ---------------------------------------------------
 
-05.00.7.67
 
-AGI0001 - LTL - AGIL - LTL
-26.754.555/0001-12 
-
-19.318.040/0001-04 - Gnc Import Comercio De Veiculos Ltda
-
-00.882.430/0006-99 - BMW DO BRASIL LTDA
-
-00.882.430/0006-99 - BMW DO BRASIL LTDA
-
-Cajamar - Município | Salvador - Município
-
-TABELA PRECO: 46 - BMW - FTL
-
-2025/000001-101
 
 --------------------------------------------------------------
 
@@ -1524,33 +1509,15 @@ RYC1D66 - CV / MJY5G62 - SEMI
 
 -------------------------------------------------------------------
 
-61.079.117/0164-43 - ALPARGATAS S/A
-87.800.777/0022-43 - Elmir Com De Calcados E Vest Ltda
-61.079.117/0164-43 - ALPARGATAS S/A
-
-
-00.882.430/0006-99 
-
-26.754.555/0001-12
 
 ---------------------------------------------------------------------
 
 
-
-"Módulo ADM \ Parâmetros \ Filiais \ CNPJ Ambev - Integrações WS "
-
-
-GLOP.VIAGEMFRM.GRID.CARREGAMENTO
-
-OP.GV.REINICIOVIAGEMSEMENCERRAR
-
-
-07.526.557/0005-33
-
-
-SYLVANIA ILUMINACION S/A
-
-
-BAUDUCCO FOODS INC
-
 select * from gn_pessoas where tipo = '4'
+
+
+2025/000062-35 - minha viagem
+
+2025/000063-35
+
+2375301 - [Versão 5.0] Valor de pedágio no CF diferente do valor da parcela de pedágio
