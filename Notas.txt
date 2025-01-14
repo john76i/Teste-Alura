@@ -1521,3 +1521,16 @@ select * from gn_pessoas where tipo = '4'
 2025/000063-35
 
 2375301 - [Versão 5.0] Valor de pedágio no CF diferente do valor da parcela de pedágio
+
+srvteste
+
+Ping statistics for 192.168.0.18:
+    Packets: Sent = 1, Received = 0, Lost = 1 (100% loss),
+Control-C
+^C
+
+
+Pinging SRVTESTE [192.168.0.18] with 32 bytes of data:
+Request timed out.
+
+ping SRVTESTE /40
