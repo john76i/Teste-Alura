@@ -1405,7 +1405,7 @@ SELECT * FROM GLGL_ENUMERACAOITEMS WHERE ENUMERACAO IN
 
 
 
-Certificado - LinkedIn Page: melhorando a presença digital
+Certificado - MySQL com IA: criando o Banco de Dados
 
 Certificado - Tomada de decisão - pensar, analisar e agir
 
@@ -1515,22 +1515,7 @@ RYC1D66 - CV / MJY5G62 - SEMI
 
 select * from gn_pessoas where tipo = '4'
 
-
-2025/000062-35 - minha viagem
-
-2025/000063-35
-
-2375301 - [Versão 5.0] Valor de pedágio no CF diferente do valor da parcela de pedágio
-
-srvteste
-
-Ping statistics for 192.168.0.18:
-    Packets: Sent = 1, Received = 0, Lost = 1 (100% loss),
-Control-C
-^C
+2025/000088-3 - VIAGEM PARA A SMS 2372938.
 
 
-Pinging SRVTESTE [192.168.0.18] with 32 bytes of data:
-Request timed out.
-
-ping SRVTESTE /40
+Certificado para o treinamento Rotina de Infra para colaboradores
