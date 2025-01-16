@@ -1509,7 +1509,7 @@ RYC1D66 - CV / MJY5G62 - SEMI
 
 -------------------------------------------------------------------
 
-
+usávamos um celular coorporativo compartilhado com os demais suporte, e agora não vamos estar mais sobre a mesma gestão
 ---------------------------------------------------------------------
 
 
@@ -1519,3 +1519,8 @@ select * from gn_pessoas where tipo = '4'
 
 
 Certificado para o treinamento Rotina de Infra para colaboradores
+
+
+
+
+
