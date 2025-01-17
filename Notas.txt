@@ -1521,6 +1521,33 @@ select * from gn_pessoas where tipo = '4'
 Certificado para o treinamento Rotina de Infra para colaboradores
 
 
+Bom dia,  
+
+  
+
+Precisamos de apoio de vocês quanto ao acesso ao ambiente.  
+
+  
+
+E para podermos iniciar análise desta SMS precisamos de mais informações como: 
+
+Em que base ocorreu o problema?  
+
+Qual empresa e filial?  
+
+É possível simular no ambiente de homologação? 
+
+  
+
+Aguardamos o retorno de vocês com o acesso liberado e as informações para retomarmos a SMS.  
+
+  
+
+Atenciosamente, Jhonathan Gonçalves. 
+
+
+
+
 
 
 

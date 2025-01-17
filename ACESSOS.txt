@@ -223,6 +223,8 @@ WTs:  benner.conlogsa.com.br
 User:conlog\benner.jhonathan
 Senha:   jhnthb@2025!
 
+jhbnnt@58631!
+
 Ambiente de Produção/Homologação:
 Usuário: sysdba
 Senha: masterkey@1089! 
