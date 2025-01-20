@@ -221,10 +221,9 @@ CONLOG (Acesso individual)
 WTs:  benner.conlogsa.com.br
 
 User:conlog\benner.jhonathan
-Senha:   jhnthb@2025!
 
-jhbnnt@58631!
-
+Senha:   jhbnnt@58631!
+ 
 Ambiente de Produção/Homologação:
 Usuário: sysdba
 Senha: masterkey@1089! 
@@ -268,6 +267,10 @@ http://homolog.extratta.com.br:8024/index/main
 thainan.oliveira
 @F-sOG2V3T
  
+
+Portal Extratta (Homologação - Coopercarga)
+Usuário: coopercarga.joseane
+Senha: #Coop@78941
 
 ****************************************************************
 

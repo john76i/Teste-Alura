@@ -1481,73 +1481,44 @@ OP.DOCUMENTO.PERMITEAPLICARPONTOPARADA
 OP.CONTRATOFRETE.PERMITIRMANIPULARLANCAMENTOSFINANCEIROS
 -----------------------------------------------------------------
 
+DADOS PARA NF-E COOPERCARGA:
+
 01.257.995/0022-68 - GOIASMINAS INDUSTRIA DE LATICINIOS LTDA
 
 12.539.517/0004-85 - 707 Auto-Servico De Alimentos Ltda
 
 01.257.995/0022-68 - GOIASMINAS INDUSTRIA DE LATICINIOS LTDA
 
-VEICULO: QTM4110 - CV / QIU6072 - CR
-
-MOTORISTA: 003.773.319-29 - OSORIO NEPOMUCENO PINTO
-
-2025/000048-35 - VIAGEM 
-
-CT-e: 137413
-
----------------------------------------------------
-
-
-
 --------------------------------------------------------------
+MOTORISTA E VEICULO COOPERCARGA: 
+
 
 RYC1D66 - CV / MJY5G62 - SEMI
 
 936.532.129-87 - MAIQUE FERREIRA
 
-2025/000050-35
+QTM4110 - CV / QIU6072 - CR
+
+003.773.319-29 - OSORIO NEPOMUCENO PINTO
 
 -------------------------------------------------------------------
 
-usávamos um celular coorporativo compartilhado com os demais suporte, e agora não vamos estar mais sobre a mesma gestão
----------------------------------------------------------------------
-
-
 select * from gn_pessoas where tipo = '4'
 
-2025/000088-3 - VIAGEM PARA A SMS 2372938.
+
 
 
 Certificado para o treinamento Rotina de Infra para colaboradores
 
 
-Bom dia,  
+1.02.01.01.01.02 - Curitiba
 
-  
+2025/000104-35
 
-Precisamos de apoio de vocês quanto ao acesso ao ambiente.  
-
-  
-
-E para podermos iniciar análise desta SMS precisamos de mais informações como: 
-
-Em que base ocorreu o problema?  
-
-Qual empresa e filial?  
-
-É possível simular no ambiente de homologação? 
-
-  
-
-Aguardamos o retorno de vocês com o acesso liberado e as informações para retomarmos a SMS.  
-
-  
-
-Atenciosamente, Jhonathan Gonçalves. 
-
-
-
-
-
-
-
+---------------------------
+Advertência
+---------------------------
+Não foi possível carregar o tipo Benner.Logistica.GL.Financeiro.Servicos.LancamentoFinanceiroFactory do assembly Benner.Logistica.GL.
+---------------------------
+OK   
+---------------------------
