@@ -1489,6 +1489,15 @@ DADOS PARA NF-E COOPERCARGA:
 
 01.257.995/0022-68 - GOIASMINAS INDUSTRIA DE LATICINIOS LTDA
 
+
+16.404.287/0047-38 - SUZANO S.A. 14531
+
+Epedidor: 81.800.849/0077-40 - COOPERCARGA S/A
+
+Recebedor: 02.762.121/0009-53 - SANTOS BRASIL PARTICIPACOES S.A
+
+2025/0000001-22- coleta 
+
 --------------------------------------------------------------
 MOTORISTA E VEICULO COOPERCARGA: 
 
@@ -1500,6 +1509,15 @@ RYC1D66 - CV / MJY5G62 - SEMI
 QTM4110 - CV / QIU6072 - CR
 
 003.773.319-29 - OSORIO NEPOMUCENO PINTO
+
+COP2729 - TRUCK
+
+447.588.420-94 - JOAO DE BARRO SILVA
+
+NRZ2600 - TRUCK
+
+266.844.168-46 - RAFAEL ZOMIGNAN
+
 
 -------------------------------------------------------------------
 
@@ -1513,12 +1531,9 @@ Certificado para o treinamento Rotina de Infra para colaboradores
 
 1.02.01.01.01.02 - Curitiba
 
-2025/000104-35
+ 2372200 - - Erros ao disparar notificação CT-e subtitpo de viagem Sem CT-e onde o CF é gerado antes de ter o CT-e vinculado a viagem (NOVO CENÁRIO) 
 
----------------------------
-Advertência
----------------------------
-Não foi possível carregar o tipo Benner.Logistica.GL.Financeiro.Servicos.LancamentoFinanceiroFactory do assembly Benner.Logistica.GL.
----------------------------
-OK   
----------------------------
+
+
+2019/000560 - contrato 
+2022/000001 - Suzano - Frete Indireto-Transferencia - Guaruja
