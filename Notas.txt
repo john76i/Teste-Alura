@@ -1405,9 +1405,9 @@ SELECT * FROM GLGL_ENUMERACAOITEMS WHERE ENUMERACAO IN
 
 
 
-Certificado - MySQL com IA: criando o Banco de Dados
+Certificado - MySQL com IA: transferindo dados de fontes externas
 
-Certificado - Tomada de decisão - pensar, analisar e agir
+Certificado - MySQL com IA - transferindo dados de fontes externas
 
 
 CONFIGURAÇÕES ESPECIAIS - OCORRENCIA:
@@ -1554,3 +1554,8 @@ SELECT * FROM GLSG_APOLICES WHERE NUMERO =
 SELECT * FROM GLSG_APOLICES WHERE SEGURADO = 298390
 
 
+2362214
+
+OP.VIAGEM.PREMITE.GERARTRANSBORDO - Transbordo 
+
+OP.PAGTOELETRONICO.EFETIVARPARCELAANTESTERMINOVIAGEM
