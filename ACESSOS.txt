@@ -249,6 +249,8 @@ benner.jhonathan / Senha@2025
 Sistema: SGL_HOMOLOG_SQL2016 - AMBEV
 Usuário/Senha: benner.jhonathan / Senha@24
 
+**** joseane / 01072018
+
 
 Acesso HomologaÃ§Ã£o : IP 192.168.0.153
 
