@@ -1548,8 +1548,19 @@ VIAGEM: 2025/003069-35
 
 NOTA: 1703
 
+04.781.843/0014-48 - DISTRIBUIDORA MEMPHIS LTDA. (SC)
 
+11.584.825/0001-17 - Rocha Mont Revenda De Produtos Para Construcao A Seco Eireli
 
+---------------------------
+Erro
+---------------------------
+Problema ocorrido ao emitir documento(s): Nenhum percurso encontrado para as localidades:
+Origem: 88815-200
+Destino: 89214-600.
+---------------------------
+OK   
+---------------------------
 
 
 
