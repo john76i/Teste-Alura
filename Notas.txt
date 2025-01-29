@@ -1552,15 +1552,41 @@ NOTA: 1703
 
 11.584.825/0001-17 - Rocha Mont Revenda De Produtos Para Construcao A Seco Eireli
 
+
+TABELA DE PREÇO: 2652 
+
+SGL 2016
+
+2013/000093 - CONTRATO - NÃO GERA CONTRATRO POR DOCUMENTO
+
+2022/000429 - Negociação - SIM, GERA CONTRATO POR DOCUMENTO, CÁLCULA POR COLETA
+
+
+AMBEV 
+
+
+2022/000429 - CONTRATO - NÃO GERA CONTRATRO POR DOCUMENTO
+
+2022/000429 - Negociação - SIM, GERA CONTRATO POR DOCUMENTO, CÁLCULA POR COLETA
+
+
 ---------------------------
-Erro
+Informação
 ---------------------------
-Problema ocorrido ao emitir documento(s): Nenhum percurso encontrado para as localidades:
-Origem: 88815-200
-Destino: 89214-600.
+Pedido de coleta número 2025/0000007-22 confirmado
 ---------------------------
 OK   
 ---------------------------
+
+
+negociação da coleta: 2019/000448 - 
+
+Placa: BTO1218
+Beneficiário: PAULO ROBERTO DOMICIANO CPF: 298.649.528-11
+Motorista: PAULO ROBERTO DOMICIANO CPF: 298.649.528-11
+
+CENÁRIO ARONILDO
+
 
 
 
