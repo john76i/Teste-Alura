@@ -1494,39 +1494,51 @@ CONTEINER: CAAU519914-7
 --------------------------------------------------------------
 MOTORISTA E VEICULO COOPERCARGA: 
 
-
 RYC1D66 - CV / MJY5G62 - SEMI
 
 936.532.129-87 - MAIQUE FERREIRA
+
 
 QTM4110 - CV / QIU6072 - CR
 
 003.773.319-29 - OSORIO NEPOMUCENO PINTO
 
+
 COP2729 - TRUCK
 
 447.588.420-94 - JOAO DE BARRO SILVA
+
 
 NRZ2600 - TRUCK
 
 266.844.168-46 - RAFAEL ZOMIGNAN
 
+
  CZC2781 / API2252
 
 266.844.168-46 - RAFAEL ZOMIGNAN
 
+
 VPO1000
 
 RAFAEL ZOMIGNAN - 266.844.168-46
+
+
+BTO1218
+
+298.649.528-11 - PAULO ROBERTO DOMICIANO
+
+
+RAE0080 / QJZ0542 - PEDAGIO SEM PARAR
+ 
+835.592.992-68 - Jairo Sousa - PEDAGIO SEM PARAR
+
 -------------------------------------------------------------------
 
 select * from gn_pessoas where tipo = '4'
 
 
-
-
 Certificado para o treinamento Rotina de Infra para colaboradores
-
 
 
 select * from GN_PESSOASLIMITESCREDITO A  where A.PESSOA = 2496 
@@ -1555,58 +1567,4 @@ NOTA: 1703
 
 TABELA DE PREÇO: 2652 
 
-SGL 2016
 
-2013/000093 - CONTRATO - NÃO GERA CONTRATRO POR DOCUMENTO
-
-2022/000429 - Negociação - SIM, GERA CONTRATO POR DOCUMENTO, CÁLCULA POR COLETA
-
-
-AMBEV 
-
-
-2022/000429 - CONTRATO - NÃO GERA CONTRATRO POR DOCUMENTO
-
-2022/000429 - Negociação - SIM, GERA CONTRATO POR DOCUMENTO, CÁLCULA POR COLETA
-
-
----------------------------
-Informação
----------------------------
-Pedido de coleta número 2025/0000007-22 confirmado
----------------------------
-OK   
----------------------------
-
-
-negociação da coleta: 2019/000448 - 
-
-Placa: BTO1218
-Beneficiário: PAULO ROBERTO DOMICIANO CPF: 298.649.528-11
-Motorista: PAULO ROBERTO DOMICIANO CPF: 298.649.528-11
-
-CENÁRIO EXTRATTA 
-
-CONTRATO SGL_HOMOLOGACAO: 2025/003906-35 - VIAGEM:2025/003906-35
-
-CONTRATO AMBEV: 2025/000125-22 - VIAGEM: 
-
-CONTRATO SGL_HOMOLOG_SQL2016: 2025/000035-35 - VIAGEM: 2025/000078-35
-
-
-2013/000093
-
-2022/000429 - Negociação CF vinculado ao pedido de coleta
-
-
-
-11.277.752/0001-10
-
-2025/0000009-22
-
-
-
-Cenários e validação de parâmetros 
-
-
-2025/003181-35
