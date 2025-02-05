@@ -179,6 +179,8 @@ USUÁRIO: integratorpa
  
 SENHA: 12345
 
+SENHA PRODUÇÃO: dsv123
+
 no servidor de teste abre o link http://localhost/eFormseMonitor/Account/Login o 
 
 usuário é NDD e a senha = P@ssw0rd
@@ -242,7 +244,7 @@ http://wts.coopercarga.com.br/
 
 Benner.Jhonathan
 ACcess1030%*
-
+-
 Sistema:SGL_HOMOLOGACAO
 benner.jhonathan / Senha@2025
 
@@ -722,8 +724,21 @@ http://bnu-logsuptms1/BL_ROADMAP_SUP_0500
 
 sysdba/Benner@2025
 
+********************************************************************************
 
+SERVIDOR BENNERCLOU DSV:
 
+OCI239-DSV
+
+BASE DE HOMOLOGAÇÃO:
+
+USUÁRIO: jhonathan.goncalves / Masterkey@23  
+ 
+BASE DE PRODUÇÃO: USUÁRIO: jhonathan.goncalves / Masterkey@25
+
+********************************************************************************
+
+PARA LOCALIZAR O SERVIDOR DOS CLIENTES BENNER CLOUD CLICAR NO WINDOWS + R E DIGITAR c:\Benner (ISSO DENTRO DO BENNER CLOUD)
 
 
 
