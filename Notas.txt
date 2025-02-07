@@ -1600,4 +1600,4 @@ VALIDA A CHAVE
 O MÉTODO DO MANUAL E AUT É O MESMO 
 
 
-2025/004032-35
+2385224 - [Versão 5.0] Registros antigos (CT-es já existentes na base) não aparecem na tela de faturamento
