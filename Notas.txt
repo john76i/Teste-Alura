@@ -1601,3 +1601,26 @@ O MÉTODO DO MANUAL E AUT É O MESMO
 
 
 2385224 - [Versão 5.0] Registros antigos (CT-es já existentes na base) não aparecem na tela de faturamento
+
+
+CONTRATO: 2025/000016 - HANDLE: 7768
+
+NEGOCIACAO: 2025/000013 - PAULO CEZAR RIBAS - HANDLE: 7263
+
+TABELA PRECO: 513 - Tabela de Compra Padrão
+
+BENEFICIARIO: 016.747.989-03 - PAULO CEZAR RIBAS
+
+PLACA: AFB0E27 - TRUCK
+
+VIAGEM: 2025/003227-35
+
+FORMA DE PAGAMENTO: 01 - Depósito - Crédito em Conta
+
+MEIO DE PAGAMENTO: 43 - Beneficiário (Adto) - Tag Conectcar (Ped) - Beneficiário (Sdo) 
+
+04.05
+
+CONTRATO: 2014/000062
+
+NEGOCIACAO: 2014/000067 - NEGOCIAÇÃO PADRÃO
