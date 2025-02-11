@@ -344,6 +344,7 @@ senha: Benner@2023
 Servidor de banco TESTE: TARIFADOR
 Seervidor de banco PRODUÇAO: App1
 
+anderson_ortis@dalcoquio.com.br
 
 sysdba / masterkey
 
@@ -361,9 +362,8 @@ https://client.wvd.microsoft.com/arm/webclient/index.html
 
 Usuário: benner.jhonathan.g@patrus.com.br  
 
-Senha: 1+ssT54C30<
+Senha: P1uO9Qk(/!1#
 
-Senha:  vwzttmrbnkvskgsq
 
 ACESSO BASE: 
 

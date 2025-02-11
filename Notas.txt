@@ -1624,3 +1624,19 @@ MEIO DE PAGAMENTO: 43 - Beneficiário (Adto) - Tag Conectcar (Ped) - Beneficiár
 CONTRATO: 2014/000062
 
 NEGOCIACAO: 2014/000067 - NEGOCIAÇÃO PADRÃO
+
+
+Base SGL_HOMOLOGACAO - FILIAL - CONCÓRDIA
+Viagem: 2025/003233-35
+Contrato de Frete: 2025/004047-35
+CT-e para autorizar: 37962
+
+GLGL_ALERTASBLOQUEIOS
+
+GLGL_ALERTASBLOQUEIOS
+
+STATUS:
+
+1 elaboração
+2 ativo 
+3 inativo
