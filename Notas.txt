@@ -1641,4 +1641,20 @@ STATUS:
 2 ativo 
 3 inativo
 
-2388129
+
+
+2385351 - Configuração de acesso com a infra do cliente.  
+
+2375301 - [Versão 5.0] Valor de pedágio no CF diferente do valor da parcela de pedágio
+
+
+1616
+
+2379886	Jhonathan	QUALIDADE	BL_CORRECOES	Verificando		COOPERCARGA - CORREÇÃO 5.00 COOPER
+2370525	Jhonathan	QUALIDADE	BL_CORRECOES	Verificando		PATRUS - FERNANDO ALEX (GESTÃO DE SERVIÇO)
+2342142	Jhonathan	QUALIDADE	BL_CORRECOES	Verificando		COOPERCARGA - VERIFICADO COM O VINICIUS VOGT, PASSAR PARA O GEBIEN E JESSICA.
+2269582	Jhonathan	QUALIDADE	BL_CORRECOES	Verificando		AGUIA BRANCA - CLIENTE DISSE QUE ERRO PERSISTE. 
+
+
+
+2385351 
