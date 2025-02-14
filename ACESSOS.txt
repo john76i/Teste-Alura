@@ -5,12 +5,12 @@ Conectar VPN:
 Usuário e senha da base:
 
 VAB\Ps.Rosam
-consultor@2024
+Vix@2025
 
 QAS IP: 10.30.20.45
 
 VAB\Ps.Rosam
-consultor@2024
+Vix@2025
 
 ***************************************************************
 
